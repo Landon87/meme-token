@@ -1,66 +1,7 @@
-## Foundry
+## CONTRACT ADDRESS FOR TrumpWasRightToken
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+0x9D07EEEB9B1b50C0F28915B27906cA3883EbC062
 
-Foundry consists of:
+**This is a meme token on TESTNET that supports Donald Trump but has no affiliation.**
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
-
-## Documentation
-
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+To obtain some tokens, send 0.02024 Sepolia ETH to the following address on the sepolia test net: 0x976B92BE99d0dec8F19De4350732988432C57f9e. By doing so, you may or may not be eligible for an air drop on the Ethereum Main-net.
